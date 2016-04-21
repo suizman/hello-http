@@ -19,6 +19,8 @@
   "dependencies": {
     "kafka": "^0.2.3",
     "mongodb": "^2.1.16",
+    "mysql": "^2.10.2",
+    "nginx": "0.0.0",
     "zookeeper": "^3.4.8-1"
   }
 }
