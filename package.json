@@ -17,6 +17,7 @@
     "url": "https://github.com/suizman/hello-http/issues"
   },
   "dependencies": {
+    "kafka": "^0.2.3",
     "mongodb": "^2.1.16"
   }
 }
