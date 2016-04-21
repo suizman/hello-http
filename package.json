@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "kafka": "^0.2.3",
-    "mongodb": "^2.1.16"
+    "mongodb": "^2.1.16",
+    "zookeeper": "^3.4.8-1"
   }
 }
